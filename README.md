@@ -6,6 +6,11 @@ This is the README for AER1515H: Perception for Robotics, assignment 3.
 
 This project covers depth estimation, 2D bbox object detection with YoloV3, and instance segmentation
 ![](data/test/left/000013.png)
+![](data/test/est_depths/000013.png)
+![](data/test/est_labels/000013.png)
+![](data/test/est_segmentation/000013.png)
+
+
 
 ## Getting Started
 
